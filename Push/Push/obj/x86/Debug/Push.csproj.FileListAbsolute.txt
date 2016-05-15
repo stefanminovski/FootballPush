@@ -1,0 +1,57 @@
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\bin\Debug\Push.exe
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\bin\Debug\Push.pdb
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\obj\x86\Debug\Push.Form3.resources
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\obj\x86\Debug\Push.Properties.Resources.resources
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\obj\x86\Debug\Push.csproj.GenerateResource.Cache
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\obj\x86\Debug\Push.exe
+c:\users\stefan\documents\visual studio 2010\Projects\Push\Push\obj\x86\Debug\Push.pdb
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\Push\Push\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\Push\Push\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\Push\Push\obj\x86\Debug\Push.csproj.ResolveComReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\Push\Push\obj\x86\Debug\Push.Form1.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\Push\Push\obj\x86\Debug\Push.Form2.resources
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.csproj.ResolveComReference.cache
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.exe
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.pdb
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\bin\Debug\Push.exe
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\bin\Debug\Push.pdb
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.Form1.resources
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.Form2.resources
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.Form3.resources
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\Push.Properties.Resources.resources
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Downloads\Fax\VI semestar\Vizuelno\Lab\Vezbi Lab\Push5\Push\Push\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Interop.WMPLib.dll
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.csproj.ResolveComReference.cache
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.exe
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.pdb
+C:\Pom_Spoj\Push6\Push6\Push\Push\bin\Debug\Push.exe
+C:\Pom_Spoj\Push6\Push6\Push\Push\bin\Debug\Push.pdb
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.csprojResolveAssemblyReference.cache
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.Form1.resources
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.Form2.resources
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.Form3.resources
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.Properties.Resources.resources
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.csproj.GenerateResource.Cache
+C:\Pom_Spoj\Push6\Push6\Push\Push\obj\x86\Debug\Push.Start_levels.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.csproj.ResolveComReference.cache
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.exe
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.pdb
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\bin\Debug\Push.exe
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\bin\Debug\Push.pdb
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Form1.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Form2.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Form3.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Start_levels.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.pocetna.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.EnterName.resources
+C:\Users\Stefan\Desktop\Push (1)\Push\Push\obj\x86\Debug\Push.Score.resources
